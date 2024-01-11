@@ -26,6 +26,8 @@ This script provides a command to toggle cargo doors on specific whitelisted veh
 ### Command
 
 - `/cargodoor`: Toggle cargo doors on the current vehicle.
+- `/bombbay`: Toggle bomb bay doors on the current vehicle
+
 
 ## Configuration
 
